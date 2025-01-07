@@ -1,0 +1,6 @@
+streamlit
+astrapy
+langflow
+python-dotenv
+pandas
+groq
